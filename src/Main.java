@@ -9,9 +9,9 @@ public class Main {
 
         int fechaDeLanzamiento = 1999;
         boolean incluidoEnElPlan=true;
+        double notaDeLaPelicula=(float)8.2;
 
-        float notaDeLaPelicula=(float)8.2;
-        float media=(float)(8.2+6.0+9.0)/3;
+        double media=(float)(8.2+6.0+9.0)/3;
 
         System.out.println(media);
 
